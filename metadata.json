@@ -1,0 +1,7 @@
+{
+  "name": "AI MedMemory Pro",
+  "description": "An intelligent app for medical students to memorize, visualize, and retain complex medical concepts using AI-driven recall training, authentic resources, and visual aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
